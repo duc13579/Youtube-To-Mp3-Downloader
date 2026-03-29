@@ -41,7 +41,7 @@ Since the app is pre-packaged with its own runtime environment (Portable version
 ---
 
 ## Credits
-Special thanks to the developers of [**yt-dlp**](https://github.com/yt-dlp/yt-dlp), an incredible open-source project that powers the core downloading engine of this application.
+Many thanks to bashonly and Grub4K, the developers of [**yt-dlp**](https://github.com/yt-dlp/yt-dlp), a fantastic open-source project that powers this application's core download engine.
 
 ---
 
